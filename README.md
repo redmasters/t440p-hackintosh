@@ -1,5 +1,7 @@
 # t440p-hackintosh
 
+![](/images/t440-monterey.png)
+
 ## Hackintosh
 macOS: Monterey
 
