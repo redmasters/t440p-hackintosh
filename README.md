@@ -1,4 +1,6 @@
 # t440p-hackintosh
+## WIP
+:constrution: 
 
 ![](/images/t440-monterey.png)
 
