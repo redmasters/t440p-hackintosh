@@ -1,4 +1,5 @@
 # t440p-hackintosh
+- based on valnoxy EFI https://github.com/valnoxy/t440p-oc
 ## WIP
 :construction: 
 
@@ -10,6 +11,3 @@ macOS: Monterey
 ** Working:**
 - Everything works fine
 
-** Not working: **
-- Bluetooth
-- Brightness control
